@@ -15,7 +15,7 @@ A Streamlit-based web application that serves as a comprehensive campus assistan
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/gpre.git
+git clone https://github.com/aspsurya/gpre.git
 cd gpre
 ```
 
