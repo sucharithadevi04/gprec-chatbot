@@ -1,6 +1,6 @@
 # GPRE Campus Assistant
 
-A Streamlit-based web application that serves as a comprehensive campus assistant for GPREC (G. Pullaiah College of Engineering) students. The application includes features like campus navigation, placement information, faculty contact details, and an intelligent chatbot for placement-related queries.
+A Streamlit-based web application that serves as a comprehensive campus assistant for GPREC (G. Pulla Reddy Engineering College) students. The application includes features like campus navigation, placement information, faculty contact details, and an intelligent chatbot for placement-related queries.
 
 ## Features
 
